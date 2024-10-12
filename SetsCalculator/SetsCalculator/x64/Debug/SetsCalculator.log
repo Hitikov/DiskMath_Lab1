@@ -1,0 +1,5 @@
+﻿  FormulaSolve.cpp
+C:\Cstm\.PSTU_works\Discret math\Lab1\SetsCalculator\SetsCalculator\FormulaSolve.cpp(33,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Menu.cpp
+  Создание кода...
+  SetsCalculator.vcxproj -> C:\Cstm\.PSTU_works\Discret math\Lab1\SetsCalculator\x64\Debug\SetsCalculator.exe

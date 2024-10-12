@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cstm\\.PSTU_works\\Discret math\\Lab1\\SetsCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A10EE81-B099-45DB-8CD3-A38027781C80}|SetsCalculator\\SetsCalculator.vcxproj|C:\\Cstm\\.PSTU_works\\Discret math\\Lab1\\SetsCalculator\\SetsCalculator\\FormulaSolve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A10EE81-B099-45DB-8CD3-A38027781C80}|SetsCalculator\\SetsCalculator.vcxproj|solutionrelative:SetsCalculator\\FormulaSolve.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A10EE81-B099-45DB-8CD3-A38027781C80}|SetsCalculator\\SetsCalculator.vcxproj|C:\\Cstm\\.PSTU_works\\Discret math\\Lab1\\SetsCalculator\\SetsCalculator\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A10EE81-B099-45DB-8CD3-A38027781C80}|SetsCalculator\\SetsCalculator.vcxproj|solutionrelative:SetsCalculator\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Cstm\\.PSTU_works\\Discret math\\Lab1\\SetsCalculator\\SetsCalculator\\Menu.cpp",
+              "RelativeDocumentMoniker": "SetsCalculator\\Menu.cpp",
+              "ToolTip": "C:\\Cstm\\.PSTU_works\\Discret math\\Lab1\\SetsCalculator\\SetsCalculator\\Menu.cpp",
+              "RelativeToolTip": "SetsCalculator\\Menu.cpp",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAAABUBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T17:00:00.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormulaSolve.cpp",
+              "DocumentMoniker": "C:\\Cstm\\.PSTU_works\\Discret math\\Lab1\\SetsCalculator\\SetsCalculator\\FormulaSolve.cpp",
+              "RelativeDocumentMoniker": "SetsCalculator\\FormulaSolve.cpp",
+              "ToolTip": "C:\\Cstm\\.PSTU_works\\Discret math\\Lab1\\SetsCalculator\\SetsCalculator\\FormulaSolve.cpp",
+              "RelativeToolTip": "SetsCalculator\\FormulaSolve.cpp",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T19:25:42.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
